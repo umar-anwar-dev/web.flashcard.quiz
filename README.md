@@ -2,6 +2,11 @@
 
 ## Introduction
 
+<video width="600" height="1000" controls>
+  <source src="/public/intro.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 Flashcard Quiz is an interactive web application designed to help users practice and test their knowledge on various topics. With multiple-choice answer selection and minor animations, users can engage in an enjoyable learning experience. The app utilizes local storage for certain functionalities and provides a seamless quiz-taking process. Flashcard quiz takes your name to only save your quiz progress and show you the results related only to you.
 
 ### You can remove your added names at any time.
