@@ -36,7 +36,7 @@ Flashcard Quiz is an interactive web application designed to help users practice
 5. Open the provided URL in a web browser to access the application.
 
 ## Live Demo
-Check out the live version of the project [here](https://flashcard-quiz-blush.vercel.app)
+Check out the live version of the project [here](https://web-flashcard-quiz.vercel.app/)
 
 ## Support
 For any inquiries or support requests, please reach out to me through our [GitHub repository](https://github.com/umar-anwar-dev/flashcard-quiz).
